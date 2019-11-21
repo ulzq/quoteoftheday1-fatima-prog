@@ -31,6 +31,8 @@ p.style.border='green 2px solid'
 p.style.height='345px'
 p.style.width='610px'
 p.style.margin='auto'
+p.style.padding='50px'
+p.style.color='red'
 
 p.style.backgroundImage='url(fantasy-3193891__340.jpg)'
 p.style.backgroundRepeat='no-repeat'
